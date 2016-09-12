@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JWAnimatedImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-instagram.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-instagramTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-instagramUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>060F8FFB281A5689F07E8A354AA76782</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2251F01AF97C8BF9F11B7A99820B5756</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>78AE5CF7FF1A03E648A5EE40B56848F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A4BFFFA65A3AE92BC53FCA2F4FFCB0EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
